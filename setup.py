@@ -120,7 +120,7 @@ setup(
     name="pybind_matlab_issue",
     use_scm_version=True,
     author="Sylwester Arabas",
-    author_email="sarabas@illinois.edu",
+    author_email="slayoo@agh.edu.pl",
     description="depicting an issue",
     long_description="",
     ext_modules=[CMakeExtension("pybind_matlab_issue")],
